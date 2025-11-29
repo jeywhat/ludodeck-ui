@@ -1,0 +1,90 @@
+.header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0 2rem;
+    min-height: 48px;
+    background: linear-gradient(90deg, #7c3aed 0%, #1e3a8a 100%);
+    box-shadow: 0 2px 20px rgba(0,0,0,0.07);
+}
+
+.ludo-bold {
+    font-size: 1.5rem;
+    font-weight: 600;
+    letter-spacing: -2px;
+}
+
+.deck-thin {
+    font-size: 1.2rem;
+    font-weight: 300;
+    margin-left: 2px;
+    letter-spacing: 0;
+}
+
+.header-title {
+    font-size: 1.5rem;
+    font-weight: bold;
+    color: #fff;
+    letter-spacing: -1px;
+    user-select: none;
+}
+
+.header-nav {
+    display: flex;
+    align-items: center;
+    gap: 1.5rem;
+}
+
+.header-link {
+    color: rgba(255,255,255,0.9);
+    font-weight: 500;
+    text-decoration: none;
+    padding: 0 0.5rem;
+    transition: color 0.2s;
+}
+
+.header-link:hover {
+    color: #fff;
+}
+
+.header-user {
+    display: flex;
+    align-items: center;
+    gap: 0.75rem;
+    margin-left: 1.5rem;
+}
+
+.header-avatar {
+    width: 32px;
+    height: 32px;
+    border-radius: 50%;
+    border: 2px solid #fff;
+    box-shadow: 0 1px 4px rgba(0,0,0,0.12);
+}
+
+.header-username {
+    color: #fff;
+    font-size: 0.95rem;
+    font-weight: 600;
+}
+
+.header-logout {
+    padding: 0.3rem 0.9rem;
+    background: #ef4444;
+    color: #fff;
+    border: none;
+    border-radius: 6px;
+    font-size: 0.95rem;
+    font-weight: 500;
+    cursor: pointer;
+    box-shadow: 0 1px 4px rgba(0,0,0,0.10);
+    transition: background 0.2s;
+}
+
+.header-logout:hover {
+    background: #dc2626;
+}
+
+.header-login {
+    margin-left: 1.5rem;
+}
