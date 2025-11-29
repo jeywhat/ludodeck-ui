@@ -1,0 +1,284 @@
+[
+  {
+    "id": "1",
+    "name": "Maudit Cadeau 1 pt",
+    "image": "/images/maudit_cadeau_1pt.png",
+    "quantity": 3
+  },
+  {
+    "id": "2",
+    "name": "Maudit Cadeau 2 pts",
+    "image": "/images/maudit_cadeau_2pts.png",
+    "quantity": 5
+  },
+  {
+    "id": "3",
+    "name": "Maudit Cadeau 3 pts",
+    "image": "/images/maudit_cadeau_3pts.png",
+    "quantity": 4
+  },
+  {
+    "id": "4",
+    "name": "Maudit Cadeau 4 pts",
+    "image": "/images/maudit_cadeau_4pts.png",
+    "quantity": 2
+  },
+  {
+    "id": "5",
+    "name": "Maudit Cadeau 5 pts",
+    "image": "/images/maudit_cadeau_5pts.png",
+    "quantity": 1
+  },
+  {
+    "id": "6",
+    "name": "Maudit Cadeau Inévitable 1 pt",
+    "image": "/images/maudit_cadeau_inevitable_1pt.png",
+    "quantity": 3
+  },
+  {
+    "id": "7",
+    "name": "Maudit Cadeau Inévitable 2 pts",
+    "image": "/images/maudit_cadeau_inevitable_2pts.png",
+    "quantity": 4
+  },
+  {
+    "id": "8",
+    "name": "Maudit Cadeau Inévitable 3 pts",
+    "image": "/images/maudit_cadeau_inevitable_3pts.png",
+    "quantity": 3
+  },
+  {
+    "id": "9",
+    "name": "Maudit Cadeau Inévitable 4 pts",
+    "image": "/images/maudit_cadeau_inevitable_4pts.png",
+    "quantity": 3
+  },
+  {
+    "id": "10",
+    "name": "Maudit Cadeau Gold 1 pt",
+    "image": "/images/maudit_cadeau_gold_1pt.png",
+    "quantity": 1
+  },
+  {
+    "id": "11",
+    "name": "Maudit Cadeau Gold 2 pts",
+    "image": "/images/maudit_cadeau_gold_2pts.png",
+    "quantity": 1
+  },
+  {
+    "id": "12",
+    "name": "Maudit Cadeau Gold 3 pts",
+    "image": "/images/maudit_cadeau_gold_3pts.png",
+    "quantity": 1
+  },
+  {
+    "id": "13",
+    "name": "Maudit Cadeau Gold 4 pts",
+    "image": "/images/maudit_cadeau_gold_4pts.png",
+    "quantity": 1
+  },
+  {
+    "id": "14",
+    "name": "Maudit Cadeau Gold 5 pts",
+    "image": "/images/maudit_cadeau_gold_5pts.png",
+    "quantity": 1
+  },
+  {
+    "id": "15",
+    "name": "Maudit Cadeau Gold 10 pts",
+    "image": "/images/maudit_cadeau_gold_10pts.png",
+    "quantity": 1
+  },
+  {
+    "id": "16",
+    "name": "Maudit Cadeau 7 pts / Antidote -7 pts",
+    "image": "/images/maudit_cadeau_7pts_antidote_7pts.png",
+    "quantity": 1
+  },
+  {
+    "id": "17",
+    "name": "Antidote -1 pt",
+    "image": "/images/antidote_1pt.png",
+    "quantity": 3
+  },
+  {
+    "id": "18",
+    "name": "Antidote -2 pts",
+    "image": "/images/antidote_2pts.png",
+    "quantity": 2
+  },
+  {
+    "id": "19",
+    "name": "Antidote -3 pts",
+    "image": "/images/antidote_3pts.png",
+    "quantity": 1
+  },
+  {
+    "id": "20",
+    "name": "Antidote -4 pts",
+    "image": "/images/antidote_4pts.png",
+    "quantity": 1
+  },
+  {
+    "id": "21",
+    "name": "Antidote -5 pts",
+    "image": "/images/antidote_5pts.png",
+    "quantity": 1
+  },
+  {
+    "id": "22",
+    "name": "Rouleau de pique-cul",
+    "image": "/images/rouleau_pique_cul.png",
+    "quantity": 1
+  },
+  {
+    "id": "23",
+    "name": "Cadeau inutile",
+    "image": "/images/cadeau_inutile.png",
+    "quantity": 3
+  },
+  {
+    "id": "24",
+    "name": "Lingots de bave",
+    "image": "/images/lingots_bave.png",
+    "quantity": 1
+  },
+  {
+    "id": "25",
+    "name": "Grimoire des furoncles",
+    "image": "/images/grimoire_furoncles.png",
+    "quantity": 1
+  },
+  {
+    "id": "26",
+    "name": "Faculeux trésor",
+    "image": "/images/faculeux_tresor.png",
+    "quantity": 3
+  },
+  {
+    "id": "27",
+    "name": "Magichien d’Os",
+    "image": "/images/magichien_os.png",
+    "quantity": 3
+  },
+  {
+    "id": "28",
+    "name": "Momie Touthanpéku",
+    "image": "/images/momie_touthanpeku.png",
+    "quantity": 2
+  },
+  {
+    "id": "29",
+    "name": "Vol à l’arraché",
+    "image": "/images/vol_arraché.png",
+    "quantity": 3
+  },
+  {
+    "id": "30",
+    "name": "Gracula",
+    "image": "/images/gracula.png",
+    "quantity": 3
+  },
+  {
+    "id": "31",
+    "name": "Petgaz à effet de serre",
+    "image": "/images/petgaz_effet_serre.png",
+    "quantity": 3
+  },
+  {
+    "id": "32",
+    "name": "Dramacula",
+    "image": "/images/dramacula.png",
+    "quantity": 3
+  },
+  {
+    "id": "33",
+    "name": "Jour de deuil",
+    "image": "/images/jour_deuil.png",
+    "quantity": 3
+  },
+  {
+    "id": "34",
+    "name": "Sirène d’urgence",
+    "image": "/images/sirene_urgence.png",
+    "quantity": 2
+  },
+  {
+    "id": "35",
+    "name": "Protection de la raie",
+    "image": "/images/protection_raie.png",
+    "quantity": 3
+  },
+  {
+    "id": "36",
+    "name": "Cacarma",
+    "image": "/images/cacarma.png",
+    "quantity": 3
+  },
+  {
+    "id": "37",
+    "name": "Bienvenue chez l’Yéti",
+    "image": "/images/bienvenue_yeti.png",
+    "quantity": 2
+  },
+  {
+    "id": "38",
+    "name": "Cacamikaze",
+    "image": "/images/cacamikaze.png",
+    "quantity": 3
+  },
+  {
+    "id": "39",
+    "name": "Génie des chiottes",
+    "image": "/images/genie_chiottes.png",
+    "quantity": 3
+  },
+  {
+    "id": "40",
+    "name": "Jackpot d’enfer",
+    "image": "/images/jackpot_enfer.png",
+    "quantity": 2
+  },
+  {
+    "id": "41",
+    "name": "Vaudoudou",
+    "image": "/images/vaudoudou.png",
+    "quantity": 2
+  },
+  {
+    "id": "42",
+    "name": "Chaud lapin",
+    "image": "/images/chaud_lapin.png",
+    "quantity": 2
+  },
+  {
+    "id": "43",
+    "name": "Sixclopes",
+    "image": "/images/sixclopes.png",
+    "quantity": 3
+  },
+  {
+    "id": "44",
+    "name": "La paire de Noël",
+    "image": "/images/paire_noel.png",
+    "quantity": 1
+  },
+  {
+    "id": "45",
+    "name": "Dindon de la farce",
+    "image": "/images/dindon_farce.png",
+    "quantity": 2
+  },
+  {
+    "id": "46",
+    "name": "Le renne des neiges",
+    "image": "/images/renne_neiges.png",
+    "quantity": 1
+  },
+  {
+    "id": "47",
+    "name": "Cacadeau de Noël",
+    "image": "/images/cacadeau_noel.png",
+    "quantity": 1
+  }
+]
